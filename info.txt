@@ -1,0 +1,132 @@
+
+ 
+ 
+ 
+  
+  Summary
+
+
+  
+  
+  Data
+  Scientist, Software Engineer with Analytic Skills in Insurance domain. Hold 1
+  year of experience with a focus on Process Automation, Software & Web
+  Development, Data Engineering, Data Analytics, Predictive Modeling across
+  Sales Analytics and Dental Insurance
+
+
+  
+ 
+ 
+  
+  Key
+  Projects
+
+
+  
+  
+  §Incorrect
+  Billing Classification Analytics – Fraud, Waste & Abuse Model build
+  for Guardian Dental Insurance
+
+  ØUsed
+  Outlier analogy to develop hypothesis on provider level
+
+  ØDeveloped
+  data preparation code for model input data
+
+  ØDeveloped
+  Unsupervised model to detect incorrect patterns of medical expenses
+
+  ØTreated
+  Outlier and Null value using statistical methods
+
+  ØDeveloped
+  Final Model Scoring Code
+
+  §Sales Analytics– Salesman’s Competency Trait Improvement
+
+  ØIdentified
+  the key Competency Traits of a salesman to improve their sales capabilities
+
+  ØKey
+  Competency traits identified by using Ensemble Machine Learning with Manual
+  Intervention
+
+  ØDeveloped
+  a 360° Survey Portal with React JS, Node JS and SQLITE database
+
+  ØDeveloped
+  a dashboard with Python Plotly
+  Dash which depicts the summary of 360° Survey of those key Competency Traits
+
+  ØThe
+  dashboard helps leaders to take decision on which areas a salesman can be
+  improved or trained
+
+  §Developed Various Web Based Systems
+
+  ØDeveloped
+  many web based portal like Online Blood Bank System, Mini Banking System,
+  Online Billing and User Administration, PUBG Mobile Tournament Registration
+  System, Online SMS Marketing System, Tele caller Lead Management System.
+
+  ØFrontend
+  Technologies used like HTML, CSS, JavaScript, AJAX
+
+  ØBackend
+  Technologies used like PHP, MySQL, Java, Codeigniter Framework
+
+  §Volunteered as a Wi-Fi Service Provider
+  at Ancestral Place
+
+  ØUsed
+  wireless technologies (IEEE 802.11 B/G/N) and networking methodology (Star
+  Topology, Mesh Topology) to provide low cost Wi-Fi
+
+  ØDeveloped
+  an agent based  Billing and User Administration
+  System to keep track of users and their services
+
+  
+ 
+ 
+  
+  Education
+  & 
+
+    Technical Skills/
+
+
+  Certifications
+
+
+  
+  
+  •Education:
+
+  1.Bachelor  of Technology, Computer Science and
+  Engineering from MAKAUT West Bengal, India (2020)
+
+  2.Master of Technology, IT Data
+  Science from MAKAUT West Bengal, India (2020 –
+  2022)
+
+  •Software
+  Engineering
+  skills: Full
+  Stack Web Development, Software Development, OOPS, C, C++, PHP,
+  Java, Python, Javascript,
+  Node JS, React JS
+
+  •Analytics skills: Machine Learning, Deep Learning(CNN,
+  RNN), Predictive Modeling (Linear / Logistic Regression, Random Forest, XGBoost)
+
+  •Technical Summary: Python, SQL, Casandra, Spark, VS Code, Tableau, Plotly
+  JS, MS Excel, GitHub
+
+  •
+
+  
+ 
+
