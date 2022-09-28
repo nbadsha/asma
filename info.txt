@@ -132,26 +132,4 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjc5M2YwNzItN2U2ZC00ZGQ5L
 
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjc5M2YwNzItN2U2ZC00ZGQ5LWE0M2EtNGVjMjIyMGU2ZTc5%40thread.v2/0?context=%7b%22Tid%22%3a%22dafe49bc-5ac3-4310-97b4-3e44a28cbf18%22%2c%22Oid%22%3a%228343cae3-31db-4cab-a73f-f212a77b0a02%22%7d
-
-https://github.com/OmkarPathak/pyresparser
-
-Me(Nayeem) and Rishabh worked together on this
-and these are our findings
-1) It is a library for Resume parsing
-2) We are able to extract information from Resume
-3) It is giving us information like
-	1) Name
-	2) Email
-	3) Mobile No
-	4) Skills
-	5) College Name
-	6) Degree
-	7) Designation
-	8) Experience
-	9) Company Name
-
-Pros: 1)Easily able to parse resume
-
-Cons: 1) Only takes '.pdf' file as input
-      2) Sometimes misinterpering between Skills and Experience
-      3) Sometimes couldn't able to extract information in a right way
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDg1ZjBjM2ItZDRlMC00YTBiLThmODgtOTkzZGU2YjM4NmRm%40thread.v2/0?context=%7b%22Tid%22%3a%22dafe49bc-5ac3-4310-97b4-3e44a28cbf18%22%2c%22Oid%22%3a%2212c22f81-c023-42b9-aecd-49c9dc287dab%22%7d
