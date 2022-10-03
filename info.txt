@@ -135,3 +135,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjc5M2YwNzItN2U2ZC00ZGQ5L
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDg1ZjBjM2ItZDRlMC00YTBiLThmODgtOTkzZGU2YjM4NmRm%40thread.v2/0?context=%7b%22Tid%22%3a%22dafe49bc-5ac3-4310-97b4-3e44a28cbf18%22%2c%22Oid%22%3a%2212c22f81-c023-42b9-aecd-49c9dc287dab%22%7d
 
 https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
+
+pip install --proxy http://[username]: [password]@noidaproxy.corp.exlservice.com:8000
+
+[package name]
