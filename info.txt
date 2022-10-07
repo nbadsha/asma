@@ -139,3 +139,6 @@ https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
 pip install --proxy http://[username]: [password]@noidaproxy.corp.exlservice.com:8000
 
 [package name]
+
+
+https://zoom.us/j/98995348337?pwd=V0FpWlUzMStTSkVHYno3SUlXOWxiZz09
