@@ -164,20 +164,3 @@ for file in onlyfiles:
     
 import pandas as pd
 result_df = pd.DataFrame(results)
-
-
-
-str1 = str(pdfextract(file))
-# rsm1 = nltk.tokenize.regexp_tokenize(str1, r"[a-zA-Z]\w+")
-rsm1 = [sent for sent in sent_tokenize()]
-rsm2 = [word_tokenize(sent)  for sent in rsm1]    
-rsm2 = [[word for word in sent if word.isalpha()] for sent in rsm2]
-dictionary = gensim.corpora.Dictionary([exp2])
-bow_corpus = [dictionary.doc2bow(document) for document in [exp2]]
-similarity_matrix = SparseTermSimilarityMatrix(termsim_index, dictionary)
-docsim_index = SoftCosineSimilarity(bow_corpus, similarity_matrix, num_best=10)
-sims = docsim_index[dictionary.doc2bow([word for word in dictionary.itervalues()])]
-print(sims)
-print(len(sims))
-cand = file.split('\\')[-1].split('.')[0]
-results.append({'Cand':cand, 'Score':list(sims[0])[1]})
