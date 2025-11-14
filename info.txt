@@ -151,3 +151,8 @@ https://exlservicenam-my.sharepoint.com/personal/rupinder173670_exlservice_com/_
 
 
 https://medium.com/m/callback/email?token=7e95bc7da90e&operation=login&state=medium&source=email-47154950f74f-1666936380879-auth.login------0-------------------f090448c_d88f_404a_999e_f32711760307
+
+
+
+
+This architecture uses the Microsoft ecosystem on the front end and a simple, serverless AWS backend. A Teams Bot captures user inputs, Graph provides meeting data, and confirmed actions are created in Planner or Jira. Lambda handles extraction and orchestration, S3 stores transcripts temporarily, and DynamoDB tracks metadata. The AI engine uses Bedrock or Azure OpenAI. Everything is encrypted, ephemeral, and low-cost — designed for fast POC delivery and easy scaling.
